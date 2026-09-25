@@ -1,0 +1,87 @@
+restaurant_name,cuisine,review_text,rating,review_date,food_item
+Jollibee,Filipino Fast Food,"The Chickenjoy is always crispy and the gravy is unbeatable comfort food.",5,2026-01-04,Chickenjoy
+Jollibee,Filipino Fast Food,"The Jolly Spaghetti was too sweet and the noodles were mushy.",2,2026-01-11,Jolly Spaghetti
+Mang Inasal,Filipino,"Chicken Inasal is smoky and tender with unlimited rice, great value.",5,2026-01-15,Chicken Inasal
+Mang Inasal,Filipino,"The halo-halo was mostly ice with barely any toppings.",2,2026-01-19,Halo-halo
+Manam Comfort Filipino,Filipino,"Sisig here is creative and flavorful, loved the modern twist on classics.",5,2026-01-23,Sisig
+Manam Comfort Filipino,Filipino,"The crispy kare-kare tasted bland and the peanut sauce was too thin.",3,2026-01-27,Crispy Kare-Kare
+Max's Restaurant,Filipino,"The fried chicken is famous for a reason, super juicy and crispy skin.",5,2026-02-01,Fried Chicken
+Max's Restaurant,Filipino,"The pork sinigang was too sour and the meat was tough.",2,2026-02-05,Pork Sinigang
+Chowking,Filipino-Chinese,"Halo-halo and chao fan combo is a solid cheap meal, quick service too.",4,2026-02-09,Chao Fan
+Chowking,Filipino-Chinese,"The lumpia shanghai was greasy and not as fresh as before.",2,2026-02-12,Lumpia Shanghai
+Locavore,Filipino,"Adobo flakes and kinilaw were bursting with flavor, best modern Filipino spot.",5,2026-02-16,Adobo Flakes
+Locavore,Filipino,"The bicol express was overly oily and too rich to finish.",3,2026-02-19,Bicol Express
+Sentro 1771,Filipino,"Sizzling sisig and crispy pata were excellent, great for group dining.",5,2026-02-23,Sizzling Sisig
+Sentro 1771,Filipino,"The kare-kare sauce was watery and lacked the usual nutty flavor.",2,2026-02-26,Kare-Kare
+Pancake House,American-Filipino,"Silver Dollar pancakes with maple syrup never disappoint, classic comfort breakfast.",4,2026-03-01,Silver Dollar Pancakes
+Pancake House,American-Filipino,"The waffles were undercooked and the coffee was lukewarm.",2,2026-03-04,Waffles
+McDonald's,American Fast Food,"McDo's fries are always hot and crispy, quick and reliable service.",4,2026-03-08,French Fries
+McDonald's,American Fast Food,"The Big Mac arrived cold and the order was wrong twice.",1,2026-03-11,Big Mac
+KFC,American Fast Food,"Original Recipe chicken is crispy and well seasoned as always.",4,2026-03-15,Original Recipe Chicken
+KFC,American Fast Food,"The mashed potatoes tasted bland and the chicken was overly greasy.",2,2026-03-18,Mashed Potatoes
+Shake Shack,American,"ShackBurger is juicy with a great char, crinkle fries are addictive.",5,2026-03-22,ShackBurger
+Shake Shack,American,"The milkshake was overpriced for the small size, though it tasted great.",3,2026-03-25,Milkshake
+Din Tai Fung,Taiwanese,"Xiao long bao here has perfectly thin skin and rich broth, worth the wait.",5,2026-03-29,Xiao Long Bao
+Din Tai Fung,Taiwanese,"The fried rice was underwhelming and overpriced for the portion.",2,2026-04-01,Fried Rice
+Nobu,Japanese,"The black cod miso was melt-in-your-mouth incredible, elegant fine dining experience.",5,2026-04-05,Black Cod Miso
+Nobu,Japanese,"The sushi platter was tiny for the steep price we paid.",2,2026-04-08,Sushi Platter
+The Cheesecake Factory,American,"Huge portions and the Oreo cheesecake is rich and creamy, great for sharing.",5,2026-04-12,Oreo Cheesecake
+The Cheesecake Factory,American,"The chicken alfredo was overcooked and the sauce tasted watery.",3,2026-04-15,Chicken Alfredo
+Pizza Hut,American,"Stuffed crust pizza is cheesy and satisfying, delivery was fast.",4,2026-04-19,Stuffed Crust Pizza
+Pizza Hut,American,"The pan pizza arrived cold and toppings were sparse.",2,2026-04-22,Pan Pizza
+In-N-Out Burger,American,"Animal style fries and the double-double burger are absolute classics.",5,2026-04-26,Double-Double Burger
+In-N-Out Burger,American,"The animal style fries were soggy this time, though the burger was still good.",3,2026-04-29,Animal Style Fries
+Olive Garden,Italian,"Unlimited breadsticks and the salad were comforting and generous.",4,2026-05-03,Breadsticks
+Olive Garden,Italian,"The fettuccine alfredo was overcooked and the sauce tasted watery.",2,2026-05-06,Fettuccine Alfredo
+Antonio's,Filipino-Continental,"Beautiful garden setting and the tasting menu was refined and memorable.",5,2026-05-10,Tasting Menu
+Antonio's,Filipino-Continental,"The wine pairing options were limited and pricey for what's offered.",3,2026-05-13,Wine Pairing
+Red Ribbon,Bakery,"The mocha dream cake is rich and not overly sweet, perfect for celebrations.",5,2026-05-16,Mocha Dream Cake
+Red Ribbon,Bakery,The ube cake tasted artificial and the frosting was too sugary.,2,2026-05-18,Ube Cake
+Goldilocks,Bakery,"Polvoron here is buttery and melts in your mouth, a classic favorite.",5,2026-05-20,Polvoron
+Goldilocks,Bakery,The leche flan was too dense and lacked the usual creaminess.,2,2026-05-22,Leche Flan
+Conti's,Cafe/Bakery,"The mango bravo cake is a must-try, light and refreshingly sweet.",5,2026-05-24,Mango Bravo
+Conti's,Cafe/Bakery,Service was slow and the coffee tasted burnt.,2,2026-05-26,Brewed Coffee
+Gerry's Grill,Filipino Grill,"Crispy pata and inihaw na liempo were amazing, great for pulutan nights.",5,2026-05-28,Crispy Pata
+Gerry's Grill,Filipino Grill,The sisig was overly oily and lacked seasoning.,2,2026-05-30,Sisig
+Barrio Fiesta,Filipino,"Kare-kare here is rich and authentic, best I've had in a while.",5,2026-06-01,Kare-Kare
+Barrio Fiesta,Filipino,The crispy pata was too tough to cut through.,2,2026-06-03,Crispy Pata
+Cabalen,Filipino Buffet,"Endless variety of Kapampangan dishes, the sisig and bringhe are standouts.",5,2026-06-05,Sisig
+Cabalen,Filipino Buffet,Food was lukewarm since it sat out too long during the buffet.,2,2026-06-07,Buffet Spread
+Racks,American BBQ,Baby back ribs are fall-off-the-bone tender with a smoky glaze.,5,2026-06-09,Baby Back Ribs
+Racks,American BBQ,The pulled pork sandwich was dry and lacked sauce.,3,2026-06-11,Pulled Pork Sandwich
+Yellow Cab Pizza,Pizza,The New York style pizza has a great thin crust and generous toppings.,4,2026-06-13,New York Pizza
+Yellow Cab Pizza,Pizza,Delivery took over an hour and the pizza arrived cold.,2,2026-06-15,Pizza
+Greenwich,Pizza,The Hawaiian Overload pizza is cheesy and packed with toppings.,4,2026-06-17,Hawaiian Overload Pizza
+Greenwich,Pizza,Crust was too doughy and undercooked in the center.,2,2026-06-19,Pizza Crust
+Army Navy,Burger,"The Dirty Chori Burger is packed with flavor, messy but so good.",5,2026-06-21,Dirty Chori Burger
+Army Navy,Burger,Burrito filling was skimpy for the price.,3,2026-06-23,Burrito
+Zark's Burgers,Burger,Krispy Krunchy Burger has a great crunch and juicy patty.,5,2026-06-25,Krispy Krunchy Burger
+Zark's Burgers,Burger,Fries were soggy and lukewarm when served.,2,2026-06-27,Fries
+Kenny Rogers Roasters,American,The roasted chicken is moist and flavorful with great herb seasoning.,4,2026-06-29,Roasted Chicken
+Kenny Rogers Roasters,American,Side dishes were bland and portions felt smaller than before.,3,2026-07-01,Side Dishes
+Starbucks,Coffee,"The caramel macchiato is smooth and perfectly balanced, my go-to order.",5,2026-07-03,Caramel Macchiato
+Starbucks,Coffee,Barista got my order wrong and the line moved painfully slow.,2,2026-07-05,Caramel Macchiato
+Krispy Kreme,Donuts,"The Original Glazed donut is soft, warm, and melts in your mouth.",5,2026-07-07,Original Glazed Donut
+Krispy Kreme,Donuts,Donuts felt stale and clearly not fresh out of the fryer.,2,2026-07-09,Original Glazed Donut
+Tim Ho Wan,Dim Sum,"The baked BBQ pork buns are flaky and sweetly savory, a Hong Kong classic done right.",5,2026-07-11,BBQ Pork Buns
+Tim Ho Wan,Dim Sum,Dumplings were cold by the time they reached our table.,2,2026-07-13,Dumplings
+Yabu,Japanese,"The tonkatsu is crispy on the outside and juicy inside, comes with great sauces.",5,2026-07-15,Tonkatsu
+Yabu,Japanese,Rice was undercooked and the katsu was over-fried.,2,2026-07-17,Tonkatsu
+Ippudo,Japanese,"The Akamaru Modern ramen has a rich, deep pork broth, absolutely worth it.",5,2026-07-19,Akamaru Modern Ramen
+Ippudo,Japanese,Broth was lukewarm and noodles were overcooked and mushy.,2,2026-07-21,Ramen Noodles
+Marugame Udon,Japanese,The chewy udon noodles paired with tempura are always a satisfying combo.,4,2026-07-23,Udon Noodles
+Marugame Udon,Japanese,Tempura was greasy and the batter fell apart.,2,2026-07-25,Tempura
+Bonchon,Korean,The soy garlic fried chicken is crispy and packed with flavor.,5,2026-07-27,Soy Garlic Chicken
+Bonchon,Korean,Chicken was overly salty and the fries were cold.,2,2026-07-29,Soy Garlic Chicken
+Pepper Lunch,Japanese,The sizzling beef pepper rice is fun to mix and tastes great fresh off the plate.,4,2026-07-31,Beef Pepper Rice
+Pepper Lunch,Japanese,Beef was tougher than expected and lacked seasoning.,3,2026-08-02,Beef Pepper Rice
+Wendy's,American Fast Food,"The Baconator is hearty and packed with flavor, one of the best fast food burgers.",4,2026-08-04,Baconator
+Wendy's,American Fast Food,Fries were cold and the burger patty was overcooked.,2,2026-08-06,Fries
+Burger King,American Fast Food,The Whopper has a great flame-grilled taste that stands out from other burgers.,4,2026-08-08,Whopper
+Burger King,American Fast Food,Burger arrived squished and the bun was stale.,2,2026-08-10,Whopper
+Popeyes,American Fast Food,"The Louisiana fried chicken is crispy, spicy, and packed with flavor.",5,2026-08-12,Louisiana Fried Chicken
+Popeyes,American Fast Food,Chicken was overly greasy and biscuits were dry.,2,2026-08-14,Biscuits
+Texas Chicken,American Fast Food,The honey butter biscuit paired with fried chicken is a fantastic combo.,4,2026-08-16,Honey Butter Biscuit
+Texas Chicken,American Fast Food,Chicken was underseasoned and the coleslaw was watery.,2,2026-08-18,Coleslaw
+Vikings Luxury Buffet,International Buffet,Endless seafood on ice and the sashimi selection make this buffet worth every peso.,5,2026-08-20,Seafood on Ice
+Vikings Luxury Buffet,International Buffet,Some stations ran out of food quickly during peak hours.,3,2026-08-22,Buffet Spread
